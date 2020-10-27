@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1603792726 source:c:\users\guxa\desktop\codeblocks\proyectoprueba\main.c
+	<stdio.h>
+	"lista.h"
+	"mapeo.h"
+
+1603792446 source:c:\users\guxa\desktop\codeblocks\proyectoprueba\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1603792672 c:\users\guxa\desktop\codeblocks\proyectoprueba\lista.h
+
+1603792685 c:\users\guxa\desktop\codeblocks\proyectoprueba\mapeo.h
+	"lista.h"
+
+1603792431 source:c:\users\guxa\desktop\codeblocks\proyectoprueba\mapeo.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"mapeo.h"
+
